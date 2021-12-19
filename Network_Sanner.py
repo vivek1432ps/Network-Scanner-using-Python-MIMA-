@@ -1,4 +1,4 @@
-mport scapy.all as scapy
+import scapy.all as scapy
 import optparse
 import times
 
